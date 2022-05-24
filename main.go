@@ -1,5 +1,7 @@
 package go_module_test
 
+import "fmt"
+
 func Print_mizuiro() {
-	println(Return_string())
+	fmt.Println(Return_string())
 }
