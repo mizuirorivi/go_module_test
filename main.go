@@ -1,5 +1,5 @@
 package go_module_test
 
-func print_mizuiro() {
-	println(return_string())
+func Print_mizuiro() {
+	println(Return_string())
 }

@@ -1,5 +1,5 @@
 package go_module_test
 
-func return_string() string {
+func Return_string() string {
 	return "mizuirorivi Hello World"
 }
